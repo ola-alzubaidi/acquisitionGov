@@ -1,0 +1,15 @@
+select{
+    background-image: none;
+    width: 140%;
+    border:none;
+    background-color:transparent;
+}
+.form-type-select{
+    width:100%;
+    overflow:hidden;
+    border: solid 1px #ccc;
+    background-image: url('../images/arrow-down.png');
+    background-repeat: no-repeat;
+    background-position:80% center;
+    background-color: #fff;
+}

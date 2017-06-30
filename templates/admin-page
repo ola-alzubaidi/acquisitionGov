@@ -1,0 +1,34 @@
+<div id="admin-links">
+    <div class="admin-page-sections">
+        <h2>Structure</h2>
+        <p><a href="?q=admin/structure/views">Views</a>
+        Manage customized lists of content.</p>
+        <p><a href="?q=admin/structure/block">Blocks</a>
+        Configure what block content appears in your site's sidebars and other regions.</p>
+        <p><a href="?q=admin/structure/context">Context</a>
+        Associate menus, views, blocks, etc. with different contexts to structure your site.</p>
+        <p><a href="?q=admin/structure/menu">Menus</a>
+        Add new menus to your site, edit existing menus, and rename and reorganize menu links.</p>
+    </div>
+    <div class="admin-page-sections">
+        <h2>Content</h2>
+        <p><a href="?q=node/add">Add Content</a>
+        Add new content to your site.</p>
+        <p><a href="?q=admin/content">Content</a>
+        Browse, filter and edit content on your site.</p>
+    </div>
+    <div class="admin-page-sections">
+        <h2>User</h2>
+        <p><a href="?q=admin/people/create">Add User</a>
+        Add a new user to your site.</p>
+    </div>
+    <div class="admin-page-sections">
+        <h2>General</h2>
+        <p><a href="?q=admin/config/development/performance">Flush Cache</a>
+        Flush Cache for your entire site.</p>
+        <p><a href="?q=admin/config">Configuration</a>
+        Access different configuration settings for modules and other areas of your site.</p>
+        <p><a href="?q=admin/reports">Reports</a>
+        View reports for different areas of your site.</p>
+    </div>
+</div>
